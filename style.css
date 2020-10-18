@@ -70,6 +70,8 @@ body {
 }
 
 .profile img {
+    height: 300px;
+    width: 300px;
     align-self: center;
     border-radius: 50%;
 }
